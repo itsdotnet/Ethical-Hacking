@@ -36,7 +36,7 @@ If you'd like to contribute to this project, please follow these guidelines:
    
 ## License
 
-This project is licensed under the [License Name] - see the LICENSE file for details.
+This repository and its contents are licensed under the [Apache License 2.0]. See the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
